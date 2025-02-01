@@ -1,0 +1,16 @@
+{
+  "name": "rabbit-language",
+  "version": "1.0.0",
+  "description": "A simple JavaScript-like language called Rabbit",
+  "main": "src/rabbit.js",
+  "scripts": {
+    "start": "node src/rabbit.js",
+    "test": "jest"
+  },
+  "keywords": ["programming-language", "javascript", "interpreter"],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
