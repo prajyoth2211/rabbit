@@ -39,6 +39,9 @@ git clone https://github.com/prajyoth2211/rabbit.git
 
 ## <h3> Project Structure
 
+## Project Structure
+
+```
 rabbit-language/
 │
 ├── src/
@@ -73,6 +76,8 @@ rabbit-language/
 ├── package.json
 ├── README.md
 └── .gitignore
+```
+
 
 ## <h3> How to Use Rabbit
 
