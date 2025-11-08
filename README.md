@@ -4,7 +4,7 @@
 
 Rabbit is a custom programming language designed for [purpose of the language, e.g., scripting, educational use, etc.]. It includes features such as:
 
-## Features
+## Features - update
 
 Simple and Intuitive Syntax – Easy-to-read and write syntax for beginners and experienced developers.
 
@@ -142,3 +142,4 @@ Submit a pull request.
 Contact
 
 For issues or suggestions, please open an issue on GitHub.
+
