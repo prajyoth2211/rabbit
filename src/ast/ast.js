@@ -6,19 +6,6 @@ module.exports = {
             this.body = body;
         }
     },
-    VariableDeclaration: class VariableDeclaration {
-        constructor(name, value) {
-            this.type = 'VariableDeclaration';
-            this.name = name;
-            this.value = value;
-        }
-    },
-    NumberLiteral: class NumberLiteral {
-        constructor(value) {
-            this.type = 'NumberLiteral';
-            this.value = value;
-        }
-    },
     StringLiteral: class StringLiteral {
         constructor(value) {
             this.type = 'StringLiteral';
