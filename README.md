@@ -1,5 +1,5 @@
 ## <h1> Rabbit Language Documentation </h1>
-
+Updated 8/22/26
 ## Overview
 
 Rabbit is a custom programming language designed for [purpose of the language, e.g., scripting, educational use, etc.]. It includes features such as:
